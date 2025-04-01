@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background: #111;
+    color: #eee;
+  }
+  
+  input, button {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+  
